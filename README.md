@@ -44,3 +44,4 @@ To manually execute the run_nikto_scan.sh script, navigate to the directory wher
 ```bash
 ./run_nikto_scan.sh
 ```
+Copyright Volkan Sah
