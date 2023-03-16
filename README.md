@@ -35,7 +35,7 @@ Add the script as a cron job. Run crontab -e and add a line at the end of the fi
 ```
 This line runs the script every day at 2 a.m. Replace /path/to/run_nikto_scan.sh with the actual path to your script.
 
-    Save the file and exit the editor. The cron job will now automatically run the script at the specified time and save the results in the specified log files.
+Save the file and exit the editor. The cron job will now automatically run the script at the specified time and save the results in the specified log files.
 
 ### Example
 
