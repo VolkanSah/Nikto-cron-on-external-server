@@ -28,7 +28,7 @@ Give execution permissions to the script:
 ```bash
 chmod +x run_nikto_scan.sh
 ```
-    Add the script as a cron job. Run crontab -e and add a line at the end of the file like the following:
+Add the script as a cron job. Run crontab -e and add a line at the end of the file like the following:
 
 ```cron
 0 2 * * * /path/to/run_nikto_scan.sh
